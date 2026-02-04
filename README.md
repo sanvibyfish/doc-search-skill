@@ -21,6 +21,24 @@ Lightweight local document search without a vector database. This repo includes 
 - Python 3.8+ (for `search.py` and `indexer.py`)
 - `ripgrep` (optional, for `quick_search.sh`)
 
+## Install
+
+Clone and use locally:
+
+```bash
+git clone git@github.com:sanvibyfish/doc-search-skill.git
+cd doc-search-skill
+```
+
+Optional: create a virtual environment (recommended):
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+```
+
+No additional Python packages are required.
+
 ## Quick start
 
 Direct search (no index):

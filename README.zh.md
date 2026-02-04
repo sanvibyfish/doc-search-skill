@@ -21,6 +21,24 @@
 - Python 3.8+（`search.py` 和 `indexer.py`）
 - `ripgrep`（可选，用于 `quick_search.sh`）
 
+## 安装
+
+克隆并本地使用：
+
+```bash
+git clone git@github.com:sanvibyfish/doc-search-skill.git
+cd doc-search-skill
+```
+
+可选：创建虚拟环境（推荐）：
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+```
+
+无需额外安装 Python 依赖。
+
 ## 快速开始
 
 直接搜索（不使用索引）：
