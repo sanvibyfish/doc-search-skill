@@ -1,5 +1,7 @@
 # Doc Search 技能
 
+语言：中文 | [English](README.md)
+
 轻量级本地文档检索，无需向量数据库。本仓库包含 Codex 技能定义以及用于索引与搜索的 Python 脚本。
 
 ## 能力概览

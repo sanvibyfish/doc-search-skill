@@ -1,5 +1,7 @@
 # Doc Search Skill
 
+Language: English | [中文](README.zh.md)
+
 Lightweight local document search without a vector database. This repo includes a Codex skill definition plus simple Python tools for indexing and searching docs.
 
 ## What it does
